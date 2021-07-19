@@ -3,9 +3,9 @@
   padding: 0;
 }
 
-/* html {
-  scroll-behavior: smooth;
-} */
+html {
+  font-family: "Montserrat", sans-serif;
+}
 
 .section-container {
   height: 100vh;
